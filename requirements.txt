@@ -1,0 +1,10 @@
+numpy
+pandas
+geopandas
+scipy
+matplotlib
+scikit-learn
+pyarrow
+pyogrio
+mgwr
+geoshapley

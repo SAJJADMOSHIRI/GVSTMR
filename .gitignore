@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large data archives and generated outputs
+*.zip
+*.7z
+*.tar
+*.gz
+outputs/
+_output/
+_work/
+*.gpkg
+*.tif
+*.tiff
+
+# Large analysis tables should be distributed through the archived data release
+*.parquet

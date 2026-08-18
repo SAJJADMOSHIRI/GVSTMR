@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use GVSTMR, please cite the associated software release and manuscript."
+title: "GVSTMR: Geovisual Spatiotemporal Matrix Relationship"
+type: software
+version: 1.0.0
+authors:
+  - family-names: "Moshiri"
+    given-names: "Sajjad"
+# Add all co-authors before release.
+# repository-code: "https://github.com/YOUR_USERNAME/GVSTMR"
+# doi: "10.5281/zenodo.XXXXXXX"
