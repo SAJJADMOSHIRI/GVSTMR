@@ -1,1 +1,0 @@
-Before the public release, add the software license selected by the authors (for example MIT or BSD-3-Clause).
